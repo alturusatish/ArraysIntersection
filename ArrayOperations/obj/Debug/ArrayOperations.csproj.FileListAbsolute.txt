@@ -1,0 +1,7 @@
+C:\Satish\Practice\GitHub Projects\ArrayInterSection\ArrayOperations\bin\Debug\ArrayOperations.exe.config
+C:\Satish\Practice\GitHub Projects\ArrayInterSection\ArrayOperations\bin\Debug\ArrayOperations.exe
+C:\Satish\Practice\GitHub Projects\ArrayInterSection\ArrayOperations\bin\Debug\ArrayOperations.pdb
+C:\Satish\Practice\GitHub Projects\ArrayInterSection\ArrayOperations\obj\Debug\ArrayOperations.csprojAssemblyReference.cache
+C:\Satish\Practice\GitHub Projects\ArrayInterSection\ArrayOperations\obj\Debug\ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Satish\Practice\GitHub Projects\ArrayInterSection\ArrayOperations\obj\Debug\ArrayOperations.exe
+C:\Satish\Practice\GitHub Projects\ArrayInterSection\ArrayOperations\obj\Debug\ArrayOperations.pdb
